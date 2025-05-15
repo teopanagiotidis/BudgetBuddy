@@ -1,18 +1,10 @@
-## Getting Started
+# Budget Buddy Project
+Software Engineering project for the course "Software Engineering"
+<ul>
+<li>Download the "BUDGET BUDDY.zip" file <br></li>
+<li>Unzip the folder <br></li>
+<li>Run the "run.bat" file <br></li>
+</ul>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+<strong>Make sure you have installed XAMPP and created the budgetbuddy database</strong>
+<p>Find instructions <a href="https://docs.google.com/document/d/e/2PACX-1vS6MrOAOcwNcxkjKl3AjAX3mgEgGXkT4Io5MudKHbeW6W4e-4qpdurCuKC5iL9HGwQuzTiS5zxieLn7/pub" target="_blank">here</a></p>
